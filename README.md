@@ -1,1 +1,3 @@
-# jupyter-notebook-workshop
+# Jupyter Notebook Workshop
+
+![](JupyterFisicas.jpg)
